@@ -145,7 +145,7 @@
                   </tr>
                   <tr>
                     <td class="bg-gray-100 w-1/4 font-semibold text-gray-500 px-6 py-2">Last update:</td>
-                    <td class="bg-gray-100 w-3/4 font-bold px-6 py-2">
+                    <td class="bg-gray-100 w-3/4 font-bold px-6 pyalias vue='winpty vue.cm-2">
                       December 26, 2020
                     </td>
                   </tr>
